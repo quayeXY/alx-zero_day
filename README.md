@@ -1,1 +1,1 @@
-This readme is for the repo
+This readme is for the repository
